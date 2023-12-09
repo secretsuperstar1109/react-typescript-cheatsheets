@@ -11,6 +11,7 @@ const readmePath = path.resolve(repositoryRootPath, "./README.md");
 /**
  * level of the heading under which the generated content is displayed
  */
+
 const baseHeadingLevel = 2;
 const defaultOptions = {
   withKey: "title",
